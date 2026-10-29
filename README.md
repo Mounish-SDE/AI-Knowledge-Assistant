@@ -67,6 +67,16 @@ Keep your `.env` file private.
 GitHub: [Mounish-SDE](https://github.com/Mounish-SDE)
 
 B.Tech Computer Science and Engineering
+## 🌐 Live Demo
+
+Try the application here:
+
+[AI Knowledge Assistant — Live Demo](https://ai-knowledge-assistant-fpg2emxnrfwzits8uroge5.streamlit.app/)
+
+## 💻 Source Code
+
+[GitHub Repository](https://github.com/Mounish-SDE/AI-Knowledge-Assistant)
+
 
 ## 🎯 Project Goal
 
