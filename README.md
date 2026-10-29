@@ -71,7 +71,7 @@ B.Tech Computer Science and Engineering
 
 Try the application here:
 
-[AI Knowledge Assistant — Live Demo](https://ai-knowledge-assistant-fpg2emxnrfwzits8uroge5.streamlit.app/)
+[AI Knowledge Assistant — Live Demo](https://ai-knowledge-assistant000.streamlit.app/)
 
 ## 💻 Source Code
 
